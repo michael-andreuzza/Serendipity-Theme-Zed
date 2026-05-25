@@ -16,22 +16,13 @@ the color palette is designed to be easy on the eyes, with enough contrast to ma
 
 ## Available Options
 
-- Light Morning
-- Dark Sunset
-- Dark Midnight
-- Dark Midnight Minimal
-
-### Options
-
-You have three themes, Sunset, Midnight and Morning and here the screenshots
+- **Serendipity Morning** (light)
+- **Serendipity Sunset** (dark)
+- **Serendipity Midnight** (dark)
 
 ### Midnight
 
 ![Midnight Preview](https://github.com/meocoder31099/Serendipity-Theme-Zed/blob/main/assets/previews/midnight.png?raw=true)
-
-### Midnight minimal
-
-![Midnight Preview](https://github.com/meocoder31099/Serendipity-Theme-Zed/blob/main/assets/previews/midnight-minimal.png?raw=true)
 
 ### Sunset
 
