@@ -19,6 +19,7 @@ the color palette is designed to be easy on the eyes, with enough contrast to ma
 - **Serendipity Morning** (light)
 - **Serendipity Sunset** (dark)
 - **Serendipity Midnight** (dark)
+- **Serendipity Midnight Electric** (dark)
 
 ### Midnight
 
